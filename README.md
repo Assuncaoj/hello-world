@@ -1,3 +1,3 @@
 # hello-world
-Meu chamo Jéssica Assunção, 
+Me chamo Jéssica Assunção, 
 faço curso técnico de informática no Senai
